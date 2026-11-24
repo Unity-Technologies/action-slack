@@ -32,7 +32,7 @@
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
     "@slack/webhook": "^5.0.3",
-    "semver": "^7.3.2"
+    "semver": "^7.8.6"
   },
   "devDependencies": {
     "@types/jest": "^26.0.9",
